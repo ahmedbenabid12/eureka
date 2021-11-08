@@ -11,5 +11,6 @@ public class ServeurEurekaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ServeurEurekaApplication.class, args);
 	}
-// modification a traves eclipse
+// modification a traves eclipse  
+	//version 2
 }
